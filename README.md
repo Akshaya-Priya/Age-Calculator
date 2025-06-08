@@ -18,7 +18,6 @@ A responsive and modern **Age Calculator** web application built as part of the 
 - CSS3
 - JavaScript (Vanilla)
 
-
 ## 🎯 How to Use
 
 1. Clone or download this repository.
@@ -26,9 +25,8 @@ A responsive and modern **Age Calculator** web application built as part of the 
 3. Enter your birth day, month, and year.
 4. Click the arrow button to view your age in years, months, and days.
 
-## 📸 Screenshot
-
-![Screenshot of Age Calculator](./assets/preview.png)
+## Link to the site
+https://akshaya-priya.github.io/Age-Calculator/
 
 ## ✍️ Author
 
